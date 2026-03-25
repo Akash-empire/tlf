@@ -285,7 +285,7 @@ class SpecialHeader extends HTMLElement {
                                 <li>
                                     <i class="flaticon-email"></i>
                                     <div class="desc">
-                                        <a href="mailto:support@rstheme.com">info@mpssociety.ca</a>
+                                        <a href="mailto:support@timelessfoundation.in">info@mpssociety.ca</a>
                                     </div>
                                 </li>
                                 <!-- <li>
